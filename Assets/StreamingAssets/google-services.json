@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790064730315",
+    "project_id": "blockbreaker-83e96",
+    "storage_bucket": "blockbreaker-83e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790064730315:android:14d972025fdc2dd04a8b4e",
+        "android_client_info": {
+          "package_name": "com.TzachCohen.BB"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcTGCiESFuxE0cocYrNQoYCvNgafjKuYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
